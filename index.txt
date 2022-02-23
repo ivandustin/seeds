@@ -74,7 +74,7 @@ Mat 12:45 The last state of that person is worse than the first
 Mat 12:50 Whoever does the will of my Father in heaven is my brother and sister and mother
 Mat 13:3 A sower went out to sow. And as he sowed, some seeds fell along the path, and the birds came and devoured them.
 Mat 13:24 The kingdom of heaven may be compared to a man who sowed good seed in his field, but while his men were sleeping, his enemy came and sowed weeds among the wheat and went away
-Mat 13:31 The kingdom of heaven is like aa grain of mustard seed that a man took and sowed in his field
+Mat 13:31 The kingdom of heaven is like a grain of mustard seed that a man took and sowed in his field
 Mat 13:33 The kingdom of heaven is like leaven that a woman took and hid in three measures of flour, till it was all leavened
 Mat 13:36 The parable of the weeds explained
 Mat 13:44 The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field.
@@ -126,7 +126,7 @@ Mark 8:34 If anyone would come after me, let him deny himself and take up his cr
 Mark 9:41 Whoever gives a cup of water to drink because you belong to Christ will by no means lose his reward
 Mark 9:42 Whoever causes one of these little ones who believe in me to sin
 Mark 9:43 If your hand causes you to sin, cut if off
-Mark 9:11 Whoever divorces his wife commits adultery
+Mark 10:11 Whoever divorces his wife commits adultery
 Mark 10:14 Let the children come to me for to such belongs the kingdom of GOD
 Mark 10:15 Whoever does not receive the kingdom of GOD like a child shall not enter it
 Mark 10:18 Why do you call me good? No one is good except GOD alone
@@ -140,8 +140,8 @@ Mark 12:1 The parable of the tenants
 Mark 12:29 Which commandment is the most important
 Mark 13:31 Heaven and earth will pass away, but my words will not pass away
 Mark 16:15 Proclaim the gospel to the whole creation
-Luke 3:4 Man shall not live by bread alone
-Luke 3:8 You shall worship the LORD your GOD, and Him only shall you serve
+Luke 4:4 Man shall not live by bread alone
+Luke 4:8 You shall worship the LORD your GOD, and Him only shall you serve
 Luke 4:12 You shall not put the LORD your GOD to the test
 Luke 4:18 The Spirit of the LORD is upon me, because He has anointed me to proclaim good news to the poor
 Luke 5:32 I have not come to call the righteous but sinners to repentance
