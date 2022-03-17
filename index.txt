@@ -35,6 +35,7 @@ Mat 8:20 Foxes have holes, and birds have nests, but the Son of Man has nowhere 
 Mat 8:22 Follow me, and leave the dead to bury their own dead
 Mat 8:26 Why are you afraid, O you of little faith?
 Mat 9:2 Take heart my son. Your sins are forgiven.
+Mat 9:9 Follow me
 Mat 9:12 Those who are well have no need of a physician, but those who are sick
 Mat 9:13 I came not to call the righteous, but sinners
 Mat 9:15 Can the wedding guests mourn as long as the bridegroom is with them?
@@ -121,15 +122,19 @@ Mark 4:30 The parable of the mustard seed
 Mark 5:34 Your faith has made you well. Go in peace and be healed of your disease.
 Mark 5:36 Do not fear, only believe
 Mark 6:50 Take heart. It is I. Do not be afraid.
+Mark 7:9 You have a fine way of rejecting the commandment of GOD
 Mark 7:15 What comes out of a person defiles him
 Mark 8:34 If anyone would come after me, let him deny himself and take up his cross and follow me
+Mark 9:23 All things are possible for one who believes
 Mark 9:41 Whoever gives a cup of water to drink because you belong to Christ will by no means lose his reward
+Mark 9:36 If anyone would be first, he must be last of all and servant of all
 Mark 9:42 Whoever causes one of these little ones who believe in me to sin
 Mark 9:43 If your hand causes you to sin, cut if off
 Mark 10:11 Whoever divorces his wife commits adultery
 Mark 10:14 Let the children come to me for to such belongs the kingdom of GOD
 Mark 10:15 Whoever does not receive the kingdom of GOD like a child shall not enter it
 Mark 10:18 Why do you call me good? No one is good except GOD alone
+Mark 10:23 How difficult it will be for those who have wealth to enter the Kingdom of GOD
 Mark 10:27 All things are possible with GOD
 Mark 10:29 No one who has left everything for my sake and for the gospel will not receive a hundredfold
 Mark 10:42 Whoever is great among you shall be your servant
@@ -144,6 +149,8 @@ Luke 4:4 Man shall not live by bread alone
 Luke 4:8 You shall worship the LORD your GOD, and Him only shall you serve
 Luke 4:12 You shall not put the LORD your GOD to the test
 Luke 4:18 The Spirit of the LORD is upon me, because He has anointed me to proclaim good news to the poor
+Luke 5:20 Man, your sins are forgiven you
+Luke 5:27 Follow me
 Luke 5:32 I have not come to call the righteous but sinners to repentance
 Luke 5:37 No one puts new wine into old wineskins
 Luke 6:5 The Son of Man is LORD of the Sabbath
@@ -157,6 +164,7 @@ Luke 6:41 Why do you see the speck that is in your brother's eye
 Luke 6:43 No good tree bears bad fruit
 Luke 6:46 Build your house on the rock
 Luke 7:23 Blessed is the one who is not offended by me
+Luke 7:41 A certain moneylender had two debtor
 Luke 7:47 He who is forgiven little, loves little
 Luke 7:48 Your sins are forgiven
 Luke 7:50 Your faith has saved you. Go in peace.
@@ -272,6 +280,7 @@ Luke 20:9 The parable of the wicked tenants
 Luke 20:34 The sons of this age marry and are given in marriage, but those who are considered worthy to attain to that age and to the resurrection from the dead neither marry nor are given in marriage, for they cannot die anymore, because they are equal to angels and are sons of GOD, being sons of the resurrection
 Luke 20:37 But that the dead are raised, even Moses showed, in the passage about the bush, where he calls the Lord the GOD of Abraham and the GOD of Isaac and the GOD of Jacob
 Luke 20:38 Now he is not GOD of the dead, but of the living, for all live to him
+Luke 20:41 How can they say that the Christ is David's son?
 Luke 20:46 Beware of the scribes, who like to walk around in long robes, and love greetings in the marketplaces and the best seats in the synagogues and the places of honor at feasts, who devour widows’ houses and for a pretense make long prayers. They will receive the greater condemnation.
 Luke 22:25 The kings of the Gentiles exercise lordship over them
 Luke 22:26 Let the greatest among you become as the youngest, and the leader as one who serves
@@ -322,7 +331,7 @@ John 7:17 If anyone's will is to do God's will, he will know whether the teachin
 John 7:28 You know me, and you know where I come from. But I have not come of my own accord. He who sent me is true, and him you do not know.
 John 7:29 I know him, for I come from him, and he sent me.
 John 7:37 If anyone thirsts, let him come to me and drink.
-John 8:12 I am the light of the world. Whoever follows me will now walk in darkness, but will have the light of life.
+John 8:12 I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.
 John 8:18 I am the one who bears witness about myself, and the Father who sent me bears witness about me.
 John 8:23 You are from below; I am from above. You are of this world; I am not of this world.
 John 8:24 I told you that you would die in your sins, for unless you believe that I am he you will die in your sins.
@@ -362,7 +371,7 @@ John 10:34 Is it not written in your Law, 'I said, you are gods'?
 John 10:35 If he called them gods to whom the word of God came-and Scripture cannot be broken-do you say of him of whom the Father consecrated and sent into the world, 'You are blaspheming,' because I said, 'I am the Son of God'?
 John 10:37 If I am not doing the works of my Father, then do not believe me; but if I do them, even though you do not believe me, believe the works, that you may know and understand that the Father is in me and I am in the Father.
 John 11:4 This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it.
-John 11:9 Are there not twelve hours in the day? If anyone walks in the day, he does not stumbles, because sees the light of this world.
+John 11:9 Are there not twelve hours in the day? If anyone walks in the day, he does not stumbles, because he sees the light of this world.
 John 11:25 I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live
 John 11:40 Did I not tell you that if you believed you would see the glory of God?
 John 11:41 Father, I thank you that you have heard me. I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me.
@@ -382,7 +391,7 @@ John 13:12 Do you understand what I have done to you? You call me Teacher and Lo
 John 13:14 If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet.
 John 13:16 Truly, truly, I say to you, a servant is not greater than his master, nor is a messenger greater than the one who sent him.
 John 13:34 A new commandment I give to you, that you love one another; just as I have loved you, you also are to love one another.
-John 14:1 Let not you hears be troubled. Believe in God; believe also in me.
+John 14:1 Let not you hearts be troubled. Believe in God; believe also in me.
 John 14:6 I am the way, and the truth, and the life. No one comes to the Father except through me.
 John 14:10 The words that I say to you I do not speak on my own authority, but the Father who dwells in me does his works.
 John 14:11 Believe me that I am in the Father and the Father is in me, or else believe on account of the works themselves.
@@ -408,15 +417,15 @@ John 15:16 You did not choose me, but I chose you and appointed you that you sho
 John 15:18 If the world hates you, know that it has hated me before it hated you.
 John 15:19 If you were of the world, the world would love you as its own; but because you are not of the world, but I chose you out of the world, therefore the world hates you.
 John 15:20 Remember the word that I said to you: 'A servant is not greater than his master.' If they persecuted me, they will also persecute you. If they kept my word, they will also keep yours.
-John 15:22 If I hade not come and spoken to them, they would not have been guilty of sin, but now they have no excuse for their sin.
+John 15:22 If I had not come and spoken to them, they would not have been guilty of sin, but now they have no excuse for their sin.
 John 15:26 But when the Helper comes, whom I will send to you from the Father, the Spirit of truth, who proceeds from the Father, he will bear witness about me.
 John 15:27 And you also will bear witness, because you have been with me from the beginning.
-John 16:1 I have said all these thing to you to keep you from falling away.
+John 16:1 I have said all these things to you to keep you from falling away.
 John 16:2 They will put you out of the synagogues. Indeed, the hour is coming when whoever kills you will think he is offering service to God.
 John 16:3 And they will do these things because they have not known the Father, nor me.
 John 16:4 But I have said these things to you, that when their hour comes you may remember that I told them to you.
 John 16:7 Nevertheless, I tell you the truth: it is to your advantage that I go away, for if I do not go away, the Helper will not come to you. But if I go, I will send him to you.
-John 16:8 And when he comes, he will convict the world concerning sin and righteousness and judgment: concerning sin, because they do not believe in me; concerning righteousness, because I go to the Father, and you will see me no longer concerning judgment, because the ruler of this world is judged.
+John 16:8 And when he comes, he will convict the world concerning sin and righteousness and judgment: concerning sin, because they do not believe in me; concerning righteousness, because I go to the Father, and you will see me no longer; concerning judgment, because the ruler of this world is judged.
 John 16:13 When the Spirit of truth comes, he will guide you into all the truth, for he will not speak on his own authority, but whatever he hears he will speak, and he will declare to you the things that are to come.
 John 16:15 All that the Father has is mine; therefore I said that he will take what is mine and declare it to you.
 John 16:20 Truly, truly, I say to you, you will weep and lament, but the world will rejoice. You will be sorrowful, but your sorrow will turn into joy.
