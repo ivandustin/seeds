@@ -1,41 +1,37 @@
-# Who is Jesus?
+###### Matthew 4:4
 
-This contains the words of Jesus Christ, the Son of GOD.
+ΟΥΚ ΕΠ ΑΡΤΩ ΜΟΝΩ ΖΗΣΕΤΑΙ Ο ΑΝΘΡΩΠΟΣ ΑΛΛ ΕΠΙ ΠΑΝΤΙ ΡΗΜΑΤΙ ΕΚΠΟΡΕΥΟΜΕΝΩ ΔΙΑ ΣΤΟΜΑΤΟΣ Θ̅Υ̅ (ΘΕΟΥ)
 
-## Matthew 4:4
+###### Matthew 4:7
 
-Man does not live on bread alone, but on every word that goes out through the mouth of GOD.
+ΟΥΚ ΕΚΠΕΙΡΑΣΕΙΣ Κ̅Ν̅ (ΚΥΡΙΟΝ) ΤΟΝ Θ̅Ν̅ (ΘΕΟΝ) ΣΟΥ
 
-## Matthew 4:7
+###### Matthew 4:10
 
-Do not test the LORD, your GOD.
+Κ̅Ν̅ (ΚΥΡΙΟΝ) ΤΟΝ Θ̅Ν̅ (ΘΕΟΝ) ΣΟΥ ΠΡΟΣΚΥΝΗΣΕΙΣ ΚΑΙ ΑΥΤΩ ΜΟΝΩ ΛΑΤΡΕΥΣΕΙΣ
 
-## Matthew 4:10
+###### Matthew 4:17
 
-Worship the LORD your GOD, and He alone shall you serve.
+ΜΕΤΑΝΟΕΙΤΕ ΗΓΓΙΚΕΝ ΓΑΡ Η ΒΑΣΙΛΕΙΑ ΤΩΝ ΟΥΡΑΝΩΝ
 
-## Matthew 4:17
+###### Matthew 5:3-12
 
-Repent, for the Kingdom of Heaven has come near.
+ΜΑΚΑΡΙΟΙ ΟΙ ΠΤΩΧΟΙ ΤΩ ΠΝΕΥΜΑΤΙ ΟΤΙ ΑΥΤΩΝ ΕΣΤΙΝ Η ΒΑΣΙΛΕΙΑ ΤΩΝ ΟΥΡΑΝΩΝ
 
-## Matthew 5:3-12
+ΜΑΚΑΡΙΟΙ ΟΙ ΠΕΝΘΟΥΝΤΕΣ ΟΤΙ ΑΥΤΟΙ ΠΑΡΑΚΛΗΘΗΣΟΝΤΑΙ
 
-Blessed are the poor in spirit, for theirs is the Kingdom of Heaven.
+ΜΑΚΑΡΙΟΙ ΟΙ ΠΡΑΕΙΣ ΟΤΙ ΑΥΤΟΙ ΚΛΗΡΟΝΟΜΗΣΟΥΣΙΝ ΤΗΝ ΓΗΝ
 
-Blessed are those who mourn, for they will be comforted.
+ΜΑΚΑΡΙΟΙ ΟΙ ΠΕΙΝΩΝΤΕΣ ΚΑΙ ΔΙΨΩΝΤΕΣ ΤΗΝ ΔΙΚΑΙΟΣΥΝΗΝ ΟΤΙ ΑΥΤΟΙ ΧΟΡΤΑΣΘΗΣΟΝΤΑΙ
 
-Blessed are the gentle, for they will inherit the earth.
+ΜΑΚΑΡΙΟΙ ΟΙ ΕΛΕΗΜΟΝΕΣ ΟΤΙ ΑΥΤΟΙ ΕΛΕΗΘΗΣΟΝΤΑΙ
 
-Blessed are those who hunger and thirst for righteousness, for they will be satisfied.
+ΜΑΚΑΡΙΟΙ ΟΙ ΚΑΘΑΡΟΙ ΤΗ ΚΑΡΔΙΑ ΟΤΙ ΑΥΤΟΙ ΤΟΝ Θ̅Ν̅ (ΘΕΟΝ) ΟΨΟΝΤΑΙ
 
-Blessed are the merciful, for they will receive mercy.
+ΜΑΚΑΡΙΟΙ ΟΙ ΕΙΡΗΝΟΠΟΙΟΙ ΟΤΙ ΥΙΟΙ Θ̅Υ̅ (ΘΕΟΥ) ΚΛΗΘΗΣΟΝΤΑΙ
 
-Blessed are the clean in heart, for they will see GOD.
+ΜΑΚΑΡΙΟΙ ΟΙ ΔΕΔΙΩΓΜΕΝΟΙ ΕΝΕΚΕΝ ΔΙΚΑΙΟΣΥΝΗΣ ΟΤΙ ΑΥΤΩΝ ΕΣΤΙΝ Η ΒΑΣΙΛΕΙΑ ΤΩΝ ΟΥΡΑΝΩΝ
 
-Blessed are the peacemakers, for they will be called sons of GOD.
+ΜΑΚΑΡΙΟΙ ΕΣΤΕ ΟΤΑΝ ΟΝΕΙΔΙΣΩΣΙΝ ΥΜΑΣ ΚΑΙ ΔΙΩΞΩΣΙΝ ΚΑΙ ΕΙΠΩΣΙΝ ΠΑΝ ΠΟΝΗΡΟΝ ΚΑΘ ΥΜΩΝ ΨΕΥΔΟΜΕΝΟΙ ΕΝΕΚΕΝ ΕΜΟΥ
 
-Blessed are those who have been persecuted because of righteousness, for theirs is the Kingdom of Heaven.
-
-Blessed are you when they insult you and persecute you and say all kinds of evil against you falsely because of me.
-
-Be glad and rejoice greatly, for your reward is great in heaven. For so they persecuted the prophets who were before you.
+ΧΑΙΡΕΤΕ ΚΑΙ ΑΓΑΛΛΙΑΣΘΕ ΟΤΙ Ο ΜΙΣΘΟΣ ΥΜΩΝ ΠΟΛΥΣ ΕΝ ΤΟΙΣ ΟΥΡΑΝΟΙΣ ΟΥΤΩΣ ΓΑΡ ΕΔΙΩΞΑΝ ΤΟΥΣ ΠΡΟΦΗΤΑΣ ΤΟΥΣ ΠΡΟ ΥΜΩΝ
