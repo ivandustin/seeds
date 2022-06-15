@@ -62,7 +62,7 @@ For I tell you that if your righteousness does not exceed more than the scribes 
 
 You heard that it was said to those of old, "Do not kill. And whoever kills is liable to judgment."
 
-But I say to you that all who are angry with his brother are liable to judgment.
+But I say to you that everyone who is angry with his brother is liable to judgment.
 
 And whoever says to his brother "foolish" will be liable to the council.
 
@@ -80,7 +80,7 @@ Truly, I say to you, you will never get out of there until you pay the last cent
 
 You heard that it was said, "You shall not commit adultery."
 
-But I say to you that all who looks at a woman to lust at her has already committed adultery on her in his heart.
+But I say to you that everyone who looks at a woman to lust at her has already committed adultery on her in his heart.
 
 Now if your right eye is causing you to sin, take it out, and throw it away from you; for it is profitable for you that one of the parts of your body be destroyed, and not your whole body be thrown into hell.
 
