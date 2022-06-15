@@ -76,7 +76,7 @@ Be in agreement with your accuser quickly till you are with him on the way, lest
 
 Truly, I say to you, you will never get out of there until you pay the last cent.
 
-###### Matthew 5:27-30
+###### Matthew 5:27-32
 
 You heard that it was said, "You shall not commit adultery."
 
@@ -85,3 +85,9 @@ But I say to you that all who looks at a woman to lust at her has already commit
 Now if your right eye is causing you to sin, take it out, and throw it away from you; for it is profitable for you that one of the parts of your body be destroyed, and not your whole body be thrown into hell.
 
 And if your right hand is causing you to sin, cut it off, and throw it away from you; for it is profitable for you that one of the parts of your body be destroyed, and not your whole body go into hell.
+
+And it was said, "Whoever divorces his wife, let him give her a certificate of divorce."
+
+But I say to you that everyone who divorces his wife, except for the reason of fornication, is making her commit adultery.
+
+And whoever marries a divorced woman commits adultery.
