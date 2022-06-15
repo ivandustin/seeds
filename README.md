@@ -88,6 +88,6 @@ And if your right hand is causing you to sin, cut it off, and throw it away from
 
 And it was said, "Whoever divorces his wife, let him give her a certificate of divorce."
 
-But I say to you that everyone who divorces his wife, except for the reason of fornication, is making her commit adultery.
+But I say to you that all who divorces his wife, except for the reason of fornication, is making her commit adultery.
 
 And whoever marries a divorced woman commits adultery.
