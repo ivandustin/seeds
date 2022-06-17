@@ -91,3 +91,11 @@ And it was said, "Whoever divorces his wife, let him give her a certificate of d
 But I say to you that all who divorces his wife, except for the reason of fornication, is making her commit adultery.
 
 And whoever marries a divorced woman commits adultery.
+
+###### Matthew 5:33-37
+
+You heard that it was said to the ancients, "You shall not swear falsely, but you shall give back to the LORD your oaths."
+
+But I say to you, do not swear at all. Neither by heaven, because it is the throne of GOD. Nor by the earth, because it is His footstool. Nor into Jerusalem, because it is the city of the great King. Nor should you swear by your head, because you are not able to make one hair white or black.
+
+But let your word be, if yes, then yes. If no, then no. And beyond these is from evil.
