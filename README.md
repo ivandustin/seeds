@@ -58,9 +58,9 @@ Therefore, whoever loosens one of the least of these commandments and teaches th
 
 For I tell you that if your righteousness does not exceed more than the scribes and Pharisees, you will never enter into the Kingdom of Heaven.
 
-###### Matthew 5:21
+###### Matthew 5:21-24
 
-You heard that it was said to those of old, "Do not kill. And whoever kills is liable to judgment."
+You heard that it was said to the ancients, "Do not kill. And whoever kills is liable to judgment."
 
 But I say to you that all who are angry with his brother are liable to judgment.
 
