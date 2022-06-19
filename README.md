@@ -115,3 +115,13 @@ And whoever will compel you one mile, go with him two.
 To the one who asks you, give.
 
 And to the one who wants to borrow from you, do not turn away.
+
+###### John 14:6-7
+
+I am the way, and the truth, and the life.
+
+No one comes to the Father except through me.
+
+If you had known me, you would have known my Father also.
+
+From now on you know Him and have seen Him.
