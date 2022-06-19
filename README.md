@@ -102,16 +102,16 @@ But let your word be, if yes, then yes. If no, then no. And beyond these is from
 
 ###### Matthew 5:38-42
 
-You heard that it was said, "Eye for eye and tooth for tooth."
+You heard that it was said, "Eye for an eye and tooth for a tooth."
 
 But I say to you, do not resist the evil one.
 
-But whoever is slapping you into your right cheek, turn to him also the other one.
+But whoever slaps you on your right cheek, turn to him also the other one.
 
 And to the one who wants you to be judged and take your tunic, send away to him also the cloak.
 
-And whoever will be compelling you one mile, go with him two.
+And whoever will compel you one mile, go with him two.
 
-To the one who is asking you, give.
+To the one who asks you, give.
 
-And to the one who is wanting to borrow from you, do not turn away.
+And to the one who wants to borrow from you, do not turn away.
