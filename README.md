@@ -116,6 +116,28 @@ To the one who asks you, give.
 
 And to the one who wants to borrow from you, do not turn away.
 
+###### Matthew 5:43-48
+
+You heard that it was said, "Love your neighbor, and hate your enemy."
+
+But I say to you, love your enemies.
+
+Bless those who curse you.
+
+Do good to those who hate you.
+
+And pray for the sake of those who revile and persecute you.
+
+So that you may become sons of your Father, who is in Heaven.
+
+Because He causes His sun to rise upon the evil and the good, and sends rain upon the righteous and the unjust.
+
+For if you love those who love you, what reward do you have? Does not also the tax collectors do the same?
+
+And if you greet your brothers, only, what more are you doing? Does not also the Gentiles do the same?
+
+Therefore, be perfect, as your Father in Heaven is perfect.
+
 ###### John 14:6-7
 
 I am the way, and the truth, and the life.
