@@ -94,7 +94,7 @@ And whoever marries a divorced woman commits adultery.
 
 ###### Matthew 5:33-37
 
-Again you heard that it was said to the ancients, "You shall not swear falsely, but you shall give back to the LORD your oaths."
+Again you heard that it was said to the ancients, "You shall not swear falsely, but you shall pay to the LORD your oaths."
 
 But I say to you, do not swear at all. Neither by heaven, because it is the throne of GOD. Nor by the earth, because it is His footstool. Nor into Jerusalem, because it is the city of the great King. Nor should you swear by your head, because you are not able to make one hair white or black.
 
