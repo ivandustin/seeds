@@ -146,6 +146,14 @@ Therefore, whenever you do alms, do not sound a trumpet in front of you, just as
 
 But when you do alms, do not let your left hand know what your right hand is doing, so that your alms is in secret. And your Father who sees in secret, will pay you.
 
+###### John 8:31-32
+
+If you abide in my word, you are truly my disciples.
+
+And you will know the truth.
+
+And the truth will set you free.
+
 ###### John 14:6-7
 
 I am the way, and the truth, and the life.
