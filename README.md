@@ -150,9 +150,9 @@ But when you do alms, do not let your left hand know what your right hand is doi
 
 I am the bread of life.
 
-He who comes to me shall not hunger.
+He who comes to me will never be hungry.
 
-And he who believes in me shall never thirst.
+And he who believes in me will never, ever be thirsty.
 
 ###### John 8:31-32
 
