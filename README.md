@@ -148,7 +148,7 @@ But when you do alms, do not let your left hand know what your right hand is doi
 
 ###### John 3:16
 
-GOD loved the world so He gave His only begotten Son so that all who believe in Him will not perish but have eternal life.
+For GOD loved the world in this way: He gave His only begotten Son, so that all who believe in Him will not perish, but have eternal life.
 
 ###### John 6:35
 
