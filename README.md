@@ -146,6 +146,10 @@ Therefore, whenever you do alms, do not sound a trumpet in front of you, just as
 
 But when you do alms, do not let your left hand know what your right hand is doing, so that your alms is in secret. And your Father who sees in secret, will pay you.
 
+###### John 3:16
+
+GOD loved the world, so He gave His only begotten Son, so that all who believe in Him will not die but have eternal life.
+
 ###### John 6:35
 
 I am the bread of life.
