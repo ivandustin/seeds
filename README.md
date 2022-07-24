@@ -164,7 +164,7 @@ And he who believes in me will never, ever be thirsty.
 
 ###### John 6:53-57
 
-Truly, truly, I say to you, if you do not eat the flesh of the Son of Man and drink his blood, you do not have life in yourselves.
+Truly, truly, I say to you, if you do not eat the flesh of the Son of Man and drink His blood, you do not have life in yourselves.
 
 The one who eats my flesh and drinks my blood has eternal life, and I will resurrect him on the last day.
 
