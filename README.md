@@ -162,6 +162,18 @@ He who comes to me will never be hungry.
 
 And he who believes in me will never, ever be thirsty.
 
+###### John 6:53-57
+
+Truly, truly, I say to you, if you do not eat the flesh of the Son of Man and drink his blood, you do not have life in yourselves.
+
+The one who eats my flesh and drinks my blood has eternal life, and I will resurrect him on the last day.
+
+For my flesh is true food, and my blood is true drink.
+
+The one who eats my flesh and drinks my blood stays in me and I in him.
+
+Just as the living Father sent me, and I live because of the Father; so is the one who eats me, and he will live because of me.
+
 ###### John 8:31-32
 
 If you abide in my word, you are truly my disciples.
