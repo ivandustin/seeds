@@ -146,6 +146,18 @@ Therefore, whenever you do alms, do not sound a trumpet in front of you, just as
 
 But when you do alms, do not let your left hand know what your right hand is doing, so that your alms is in secret. And your Father who sees in secret, will pay you.
 
+###### Mark 11:22-26
+
+Have faith in GOD.
+
+For truly, I say to you, that whoever says to this mountain, "Be lifted up, and be thrown into the sea," and does not doubt in his heart but believes that what he speaks happens, it will be done for him.
+
+Because of this I say to you. All, how ever many, that you pray for and ask for, believe that you received them, and it will be yours.
+
+And whenever you stand praying, forgive, if you have anything against anyone, so that your Father who is in Heaven, also forgives you for your transgressions.
+
+But if you do not forgive, neither will your Father in Heaven will forgive your transgressions.
+
 ###### John 3:16
 
 For GOD loved the world in this way:
