@@ -152,7 +152,7 @@ Have faith in GOD.
 
 For truly, I say to you, that whoever says to this mountain, "Be lifted up, and be thrown into the sea," and does not doubt in his heart but believes that what he speaks happens, it will be done for him.
 
-Because of this I say to you. All, how ever many, that you pray for and ask for, believe that you received them, and it will be yours.
+Because of this I say to you. All, how ever great, that you pray and ask, believe that you received, and it will be yours.
 
 And whenever you stand praying, forgive, if you have anything against anyone, so that your Father who is in Heaven, also forgives you for your transgressions.
 
