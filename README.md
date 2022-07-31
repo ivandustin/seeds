@@ -20,7 +20,7 @@ Blessed are the poor in spirit, for theirs is the Kingdom of Heaven.
 
 Blessed are those who mourn, for they will be comforted.
 
-Blessed are the gentle, for they will inherit the earth.
+Blessed are the gentle, for they will inherit the Earth.
 
 Blessed are those who hunger and thirst for righteousness, for they will be satisfied.
 
@@ -36,7 +36,7 @@ Blessed are you when they insult you and persecute you and say all kinds of evil
 
 ###### Matthew 5:13
 
-You are the salt of the earth.
+You are the salt of the Earth.
 
 But if the salt loses its taste, what can make it salty again? It is not useful anymore, except to be thrown outside and be trampled by the people.
 
@@ -46,13 +46,13 @@ You are the light of the world.
 
 A city laid above a mountain cannot be hidden. Nor do they light a lamp and put it under a basket, but on the lampstand; and it gives light to all in the house.
 
-So let your light shine before the people so that they may see your good works, and glorify your Father who is in heaven.
+So let your light shine before the people so that they may see your good works, and glorify your Father who is in Heaven.
 
 ###### Matthew 5:17-20
 
 Do not think that I came to destroy the Law or the Prophets. I came not to destroy, but to fulfill.
 
-For truly, I say to you, until heaven and earth pass away, one iota or one apostrophe will never pass away from the Law until all have happened.
+For truly, I say to you, until Heaven and Earth pass away, one iota or one apostrophe will never pass away from the Law until all have happened.
 
 Therefore, whoever loosens one of the least of these commandments and teaches this way to people will be called least in the Kingdom of Heaven; but whoever does and teaches this, will be called great in the Kingdom of Heaven.
 
@@ -96,7 +96,7 @@ And whoever marries a divorced woman commits adultery.
 
 Again you heard that it was said to the ancients, "You shall not swear falsely, but you shall pay to the LORD your oaths."
 
-But I say to you, do not swear at all. Neither by heaven, because it is the throne of GOD. Nor by the earth, because it is His footstool. Nor into Jerusalem, because it is the city of the great King. Nor should you swear by your head, because you are not able to make one hair white or black.
+But I say to you, do not swear at all. Neither by Heaven, because it is the throne of GOD. Nor by the Earth, because it is His footstool. Nor into Jerusalem, because it is the city of the great King. Nor should you swear by your head, because you are not able to make one hair white or black.
 
 But let your word be, if yes, then yes. If no, then no. And beyond these is from evil.
 
