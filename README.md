@@ -150,7 +150,7 @@ But when you do alms, do not let your left hand know what your right hand is doi
 
 Those who are strong do not need to have a physician, but those who are sick.
 
-I did not come to call the righteous, but sinners.
+I did not come to call the righteous, but the sinners.
 
 ###### Mark 11:22-26
 
