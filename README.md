@@ -146,6 +146,12 @@ Therefore, whenever you do alms, do not sound a trumpet in front of you, just as
 
 But when you do alms, do not let your left hand know what your right hand is doing, so that your alms is in secret. And your Father who sees in secret, will pay you.
 
+###### Mark 2:17
+
+Those who are well do not need to have a physician, but those who are sick.
+
+I did not come to call the righteous, but sinners.
+
 ###### Mark 11:22-26
 
 Have faith in GOD.
