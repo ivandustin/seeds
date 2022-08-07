@@ -148,7 +148,7 @@ But when you do alms, do not let your left hand know what your right hand is doi
 
 ###### Mark 2:17
 
-Those who are well do not need to have a physician, but those who are sick.
+Those who are strong do not need to have a physician, but those who are sick.
 
 I did not come to call the righteous, but sinners.
 
