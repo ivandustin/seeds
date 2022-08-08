@@ -180,6 +180,10 @@ He who comes to me will never be hungry.
 
 And he who believes in me will never, ever be thirsty.
 
+###### John 6:40
+
+For this is the will of my Father; that everyone who looks on the Son and believes in Him has eternal life. And I will resurrect him on the last day.
+
 ###### John 6:53-57
 
 Truly, truly, I say to you, if you do not eat the flesh of the Son of Man and drink His blood, you do not have life in yourselves.
