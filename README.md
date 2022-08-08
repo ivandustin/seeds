@@ -182,7 +182,7 @@ And he who believes in me will never, ever be thirsty.
 
 ###### John 6:40
 
-For this is the will of my Father; that everyone who looks on the Son and believes in Him has eternal life. And I will resurrect him on the last day.
+For this is the will of my Father; that everyone who looks on the Son and believes in Him shall have eternal life. And I will resurrect him on the last day.
 
 ###### John 6:53-57
 
