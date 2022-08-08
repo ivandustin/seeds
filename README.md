@@ -166,11 +166,11 @@ But if you do not forgive, neither will your Father in Heaven will forgive your 
 
 ###### John 3:16
 
-For GOD loved the world in this way:
+GOD loved the world.
 
-He gave His only begotten Son.
+Therefore, He gave His only begotten Son.
 
-So that all who believe in Him will not perish, but have eternal life.
+So that everyone who believes in Him shall not perish, but have eternal life.
 
 ###### John 6:35
 
