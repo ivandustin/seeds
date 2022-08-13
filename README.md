@@ -213,3 +213,7 @@ No one comes to the Father except through me.
 If you had known me, you would have known my Father also.
 
 From now on you know Him and have seen Him.
+
+###### John 15:12
+
+This is my commandment, that you shall love one another, just as I loved you.
