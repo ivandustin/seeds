@@ -220,4 +220,4 @@ If you love me, you will keep my commandments.
 
 ###### John 15:12
 
-This is my commandment, that you shall love one another, just as I loved you.
+This is my commandment, that you shall love one another, just as I love you.
