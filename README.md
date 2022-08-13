@@ -214,6 +214,10 @@ If you had known me, you would have known my Father also.
 
 From now on you know Him and have seen Him.
 
+###### John 14:15
+
+If you love me, you will keep my commandments.
+
 ###### John 15:12
 
 This is my commandment, that you shall love one another, just as I loved you.
