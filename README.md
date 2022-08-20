@@ -170,7 +170,7 @@ But if you do not forgive, neither will your Father in Heaven will forgive your 
 
 ###### John 3:16
 
-GOD loved the world.
+GOD loves the world.
 
 Therefore, He gave His only begotten Son.
 
