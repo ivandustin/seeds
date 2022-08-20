@@ -30,7 +30,7 @@ Blessed are the clean in heart, for they will see GOD.
 
 Blessed are the peacemakers, for they will be called sons of GOD.
 
-Blessed are those who have been persecuted because of righteousness, for theirs is the Kingdom of Heaven.
+Blessed are those who have been persecuted because of righteousness. For theirs is the Kingdom of Heaven.
 
 Blessed are you when they insult you and persecute you and say all kinds of evil against you falsely because of me. Be glad, and rejoice greatly, for your reward is great in Heaven. For so they persecuted the prophets who were before you.
 
