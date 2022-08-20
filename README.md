@@ -30,7 +30,7 @@ Blessed are the clean in heart, for they will see GOD.
 
 Blessed are the peacemakers, for they will be called sons of GOD.
 
-Blessed are those who have been persecuted because of righteousness; for theirs is the Kingdom of Heaven.
+Blessed are those who have been persecuted because of righteousness, for theirs is the Kingdom of Heaven.
 
 Blessed are you when they insult you and persecute you and say all kinds of evil against you falsely because of me. Be glad, and rejoice greatly, for your reward is great in Heaven. For so they persecuted the prophets who were before you.
 
@@ -44,7 +44,7 @@ But if the salt loses its taste, what can make it salty again? It is not useful 
 
 You are the light of the world.
 
-A city laid above a mountain cannot be hidden. Nor do they light a lamp and put it under a basket, but on the lampstand; and it gives light to all in the house.
+A city laid above a mountain cannot be hidden. Nor do they light a lamp and put it under a basket, but on the lampstand. And it gives light to all in the house.
 
 So let your light shine before the people so that they may see your good works, and glorify your Father who is in Heaven.
 
@@ -54,7 +54,7 @@ Do not think that I came to destroy the Law or the Prophets. I came not to destr
 
 For truly, I say to you, until Heaven and Earth pass away, one iota or one apostrophe will never pass away from the Law until all have happened.
 
-Therefore, whoever loosens one of the least of these commandments and teaches this way to people will be called least in the Kingdom of Heaven; but whoever does and teaches this, will be called great in the Kingdom of Heaven.
+Therefore, whoever loosens one of the least of these commandments and teaches this way to people will be called least in the Kingdom of Heaven. But whoever does and teaches this, will be called great in the Kingdom of Heaven.
 
 For I tell you that if your righteousness does not exceed more than the scribes and Pharisees, you will never enter into the Kingdom of Heaven.
 
@@ -82,9 +82,9 @@ You heard that it was said, "You shall not commit adultery."
 
 But I say to you that all who looks at a woman to lust at her has already committed adultery on her in his heart.
 
-Now if your right eye is causing you to sin, take it out, and throw it away from you; for it is profitable for you that one of the parts of your body be destroyed, and not your whole body be thrown into hell.
+Now if your right eye is causing you to sin, take it out, and throw it away from you. For it is profitable for you that one of the parts of your body be destroyed, and not your whole body be thrown into hell.
 
-And if your right hand is causing you to sin, cut it off, and throw it away from you; for it is profitable for you that one of the parts of your body be destroyed, and not your whole body go into hell.
+And if your right hand is causing you to sin, cut it off, and throw it away from you. For it is profitable for you that one of the parts of your body be destroyed, and not your whole body go into hell.
 
 And it was said, "Whoever divorces his wife, let him give her a certificate of divorce."
 
@@ -198,7 +198,7 @@ For my flesh is true food, and my blood is true drink.
 
 The one who eats my flesh and drinks my blood stays in me and I in him.
 
-Just as the living Father sent me, and I live because of the Father; so is the one who eats me, and he will live because of me.
+Just as the living Father sent me, and I live because of the Father. So is the one who eats me, and he will live because of me.
 
 ###### John 8:31-32
 
