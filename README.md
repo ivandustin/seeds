@@ -130,7 +130,7 @@ And pray for the sake of those who revile and persecute you.
 
 So that you may become sons of your Father, who is in Heaven.
 
-Because He causes His sun to rise upon the evil and the good, and sends rain upon the righteous and the unjust.
+Because He causes His Sun to rise upon the evil and the good, and sends rain upon the righteous and the unjust.
 
 For if you love those who love you, what reward do you have? Does not also the tax collectors do the same?
 
