@@ -146,6 +146,18 @@ Therefore, whenever you do alms, do not sound a trumpet in front of you, just as
 
 But when you do alms, do not let your left hand know what your right hand is doing, so that your alms is in secret. And your Father who sees in secret, will pay you.
 
+###### Matthew 6:5-6
+
+And when you pray, do not be like the hypocrites.
+
+Because they love to stand and pray in the synagogues and in the corners of the streets, so that they shall shine to the people.
+
+Truly, I say to you, they are keeping away their wages.
+
+But when you pray, go into your inner room, and after you shut the door, pray to your Father, who is in secret.
+
+And your Father who sees in secret, will pay you.
+
 ###### Matthew 6:33
 
 Seek first the kingdom and the righteousness of GOD.
