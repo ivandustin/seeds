@@ -162,6 +162,14 @@ And your Father who sees in secret, will pay you.
 
 Seek first the kingdom and the righteousness of GOD.
 
+###### Matthew 11:28-30
+
+Come to me all who are exhausted and overloaded, and I will give you rest.
+
+Take my yoke upon you, and learn from me, because I am gentle and lowly in heart, and you will find rest for your souls.
+
+For my yoke is good, and my load is light.
+
 ###### Mark 2:17
 
 Those who are strong do not need to have a physician, but those who are sick.
