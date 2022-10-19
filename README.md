@@ -228,6 +228,14 @@ And you will know the truth.
 
 And the truth will set you free.
 
+###### John 11:25-26
+
+I am the resurrection and the life.
+
+Whoever believes in me, even if he should die, will live.
+
+And everyone who lives and believes in me shall never die forever.
+
 ###### John 14:6-7
 
 I am the way, and the truth, and the life.
