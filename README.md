@@ -158,6 +158,14 @@ But when you pray, go into your inner room, and after you shut the door, pray to
 
 And your Father who sees in secret, will pay you.
 
+###### Matthew 6:19-21
+
+Do not store up treasures on earth, where moth and rust destroy, and where thieves break in and steal.
+
+But store up treasures in heaven, where neither moth nor rust destroys, and where thieves do not break in and steal.
+
+For where your treasure is, there your heart will be also.
+
 ###### Matthew 6:33
 
 Seek first the kingdom and the righteousness of GOD.
