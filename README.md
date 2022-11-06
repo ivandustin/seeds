@@ -142,7 +142,7 @@ Therefore, be perfect, as your Father in Heaven is perfect.
 
 Be careful not to do your righteousness in front of the people to be seen by them. For you will surely have no wage from your Father, who is in Heaven.
 
-Therefore, whenever you do alms, do not sound a trumpet in front of you, just as the hypocrites are doing in the synagogues and in the streets, so that they may be glorified by the people. Truly, I say to you, they have received their wage.
+Therefore, whenever you do alms, do not sound a trumpet in front of you, just as the hypocrites are doing in the synagogues and in the streets, so that they may be glorified by the people. Truly, I say to you, they are keeping away their wage.
 
 But when you do alms, do not let your left hand know what your right hand is doing, so that your alms is in secret. And your Father who sees in secret, will pay you.
 
