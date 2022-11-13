@@ -228,6 +228,12 @@ The one who eats my flesh and drinks my blood stays in me and I in him.
 
 Just as the living Father sent me, and I live because of the Father. So is the one who eats me, and he will live because of me.
 
+###### John 8:12
+
+I am the light of the world.
+
+Whoever follows me shall never walk in the darkness, but will have the light of life.
+
 ###### John 8:31-32
 
 If you abide in my word, you are truly my disciples.
