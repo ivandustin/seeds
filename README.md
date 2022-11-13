@@ -152,7 +152,7 @@ And when you pray, do not be like the hypocrites.
 
 Because they love to stand and pray in the synagogues and in the corners of the streets, so that they shall shine to the people.
 
-Truly, I say to you, they are keeping away their wages.
+Truly, I say to you, they are keeping away their wage.
 
 But when you pray, go into your inner room, and after you shut the door, pray to your Father, who is in secret.
 
