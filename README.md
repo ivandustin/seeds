@@ -252,7 +252,7 @@ And everyone who lives and believes in me shall never die forever.
 
 ###### John 14:6-7
 
-I am the way, and the truth, and the life.
+I am the way and the truth and the life.
 
 No one comes to the Father except through me.
 
