@@ -172,9 +172,7 @@ Seek first the kingdom and the righteousness of GOD.
 
 ###### Matthew 7:21-23
 
-Not everyone who is saying to me, "Lord, Lord," will enter into the Kingdom of Heaven.
-
-But the one who is doing the will of my Father, who is in Heaven.
+Not everyone who is saying to me, "Lord, Lord," will enter into the Kingdom of Heaven, but the one who is doing the will of my Father, who is in Heaven.
 
 Many will say to me on that day, "Lord, Lord, did we not prophesy in your name, cast out demons in your name, and did many miracles in your name?"
 
