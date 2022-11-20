@@ -170,6 +170,16 @@ For where your treasure is, there your heart will be also.
 
 Seek first the kingdom and the righteousness of GOD.
 
+###### Matthew 7:21-23
+
+Not everyone who is saying to me, "Lord, Lord," will enter into the Kingdom of Heaven.
+
+But the one who is doing the will of my Father, who is in Heaven.
+
+Many will say to me on that day, "Lord, Lord, did we not prophesy in your name, cast out demons in your name, and did many miracles in your name?"
+
+And then I will confess to them that, "I never knew you. Go away from me, you workers of lawlessness."
+
 ###### Matthew 11:28-30
 
 Come to me all who are exhausted and overloaded, and I will give you rest.
