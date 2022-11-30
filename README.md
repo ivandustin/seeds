@@ -186,6 +186,12 @@ Take my yoke upon you, and learn from me, because I am gentle and lowly in heart
 
 For my yoke is good, and my load is light.
 
+###### Matthew 13:44
+
+The Kingdom of Heaven is the same as a treasure that has been hidden in a field that a man has found.
+
+He hid it, and from his joy, he goes and sells everything, as much as he has, and buys that field.
+
 ###### Mark 2:17
 
 Those who are strong do not need to have a physician, but those who are sick.
