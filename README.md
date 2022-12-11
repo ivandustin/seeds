@@ -213,6 +213,7 @@ But some of the scribes were sitting there and questioning in their hearts, "Wha
 And immediately, Jesus knew in his spirit that they were questioning themselves.
 
 Jesus said to them, "What are these questions in your heart? Which is easier, to say to the paralytic, 'Your sins are forgiven,' or to say, 'Rise, take up your bed, and walk?' But so that you may know that the Son of Man has authority on earth to forgive sins."
+
 Jesus said to the paralytic, "I say to you, rise, take up your bed, and go home."
 
 And the paralytic rose.
