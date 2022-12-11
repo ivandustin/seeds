@@ -192,6 +192,35 @@ The Kingdom of Heaven is the same as a treasure that has been hidden in a field 
 
 He hid it, and from his joy, he goes and sells everything, as much as he has, and buys that field.
 
+###### Mark 2:1-12
+
+And Jesus returned to Capernaum after some days, and it was heard that he was in the house.
+
+And immediately, many came together, so there was no more room, not even at the door.
+
+And Jesus was preaching the word to them.
+
+And they came, bringing to him a paralytic being lifted by four men.
+
+And when they were not able to bring him because of the crowd, they removed the roof where Jesus was.
+
+And having opened the roof, they lowered the mattress where the paralytic was laying down.
+
+And when Jesus saw their faith, he said to the paralytic, "Child, your sins are forgiven."
+
+But some of the scribes were sitting there and questioning in their hearts, "What is this that he is saying? He is blaspheming! Who is able to forgive sins except for GOD alone?"
+
+And immediately, Jesus knew in his spirit that they were questioning themselves.
+
+Jesus said to them, "What are these questions in your heart? Which is easier, to say to the paralytic, 'Your sins are forgiven,' or to say, 'Rise, take up your bed, and walk?' But so that you may know that the Son of Man has authority on earth to forgive sins."
+Jesus said to the paralytic, "I say to you, rise, take up your bed, and go home."
+
+And the paralytic rose.
+
+And immediately, having taken up his bed, he came out in front of everyone.
+
+So everyone was amazed and glorified GOD, saying that "We never saw anything like this!"
+
 ###### Mark 2:17
 
 Those who are strong do not need to have a physician, but those who are sick.
