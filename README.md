@@ -286,6 +286,10 @@ And you will know the truth.
 
 And the truth will set you free.
 
+###### John 8:51
+
+Truly, Truly, I say to you, if anyone keeps my word, he shall never see death forever.
+
 ###### John 11:25-26
 
 I am the resurrection and the life.
