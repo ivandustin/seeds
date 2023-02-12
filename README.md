@@ -312,6 +312,14 @@ From now on you know Him and have seen Him.
 
 If you love me, you will keep my commandments.
 
+###### John 15:5
+
+I am the vine. You are the branches.
+
+He who stays in me and I in him, he is the one that bears much fruit.
+
+Because without me, you can do nothing.
+
 ###### John 15:12
 
 This is my commandment, that you shall love one another, just as I love you.
