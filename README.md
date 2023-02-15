@@ -280,7 +280,7 @@ Whoever follows me shall never walk in the darkness, but will have the light of 
 
 ###### John 8:31-32
 
-If you abide in my word, you are truly my disciples.
+If you stay in my word, you are truly my disciples.
 
 And you will know the truth.
 
