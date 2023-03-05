@@ -158,6 +158,12 @@ But when you pray, go into your inner room, and after you shut the door, pray to
 
 And your Father who sees in secret, will pay you.
 
+###### Matthew 6:14-15
+
+If you forgive people for their sins, your heavenly Father will also forgive you.
+
+But if you do not forgive people for their sins, neither your Father will forgive your sins.
+
 ###### Matthew 6:19-21
 
 Do not store up treasures on earth, where moth and rust destroy, and where thieves break in and steal.
