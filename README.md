@@ -310,7 +310,7 @@ I am the way and the truth and the life.
 
 No one comes to the Father except through me.
 
-If you had known me, you would have known my Father also.
+If you had known me, you have known my Father also.
 
 From now on you know Him and have seen Him.
 
