@@ -329,3 +329,9 @@ Because without me, you can do nothing.
 ###### John 15:12
 
 This is my commandment, that you shall love one another, just as I love you.
+
+###### John 16:33
+
+In the world, you have pressure.
+
+In me, you have peace.
